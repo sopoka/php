@@ -1,0 +1,21 @@
+{
+    "name": "sopo/app",
+    "type": "project",
+    "license": "MIT",
+
+    "autoload": {
+
+        "psr-4":{
+            "app\\":"app/"
+        }
+    },
+
+    "authors": [
+        {
+            "name": "SOPO",
+            "email": "sopuka42@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
